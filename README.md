@@ -1,4 +1,4 @@
-// array declare and initialiging
+// array declare and initializ
 
 #include <stdio.h>
 int main() {
